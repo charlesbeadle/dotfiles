@@ -1,0 +1,12 @@
+# Aliases 
+alias l="ls"
+alias ll="ls -l"
+alias la="ls -a"
+alias lla="ls -la"
+alias lsdir="ls -d */"
+alias lsf="find . -maxdepth 1 -type f ! -name '.*' | sed 's|^\./||'"
+
+alias ..="cd .."
+alias dsk="cd ~/Desktop"
+alias dwn="cd ~/Downloads"
+
